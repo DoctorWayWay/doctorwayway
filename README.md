@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a to-do planner app called What To Do
+- 🌱 I’m currently learning backend development with Node.js, Express.js, and Knex.js.
+
 <!--
 **DoctorWayWay/doctorwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
