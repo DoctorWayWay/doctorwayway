@@ -1,4 +1,4 @@
-# Hello there, my name is Waylon 👋
+# Hello there! My name is Waylon 👋
 I am a Full Stack Web Developer who is currently enrolled in Bloom Institute of Technology's(BIT) Full Stack Web Developer course (completed 4 out of the 6 units).
 
 ## :walking: What I am doing
