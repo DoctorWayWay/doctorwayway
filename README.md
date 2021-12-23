@@ -13,11 +13,11 @@ I had absolutly no knowledge on computer programming coming into this year. I gr
 - HTML & CSS
 
 ## :hammer_and_wrench: Tools I Use
-- React.js
-- Express.js
-- BootStrap
-- Redux.js
-- Node.js
+- [React.js](https://reactjs.org/)
+- [Express.js](https://expressjs.com/)
+- [BootStrap](https://getbootstrap.com/)
+- [Redux.js](https://redux.js.org/)
+- [Node.js](https://nodejs.org/)
 
 <!--
 **DoctorWayWay/doctorwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
