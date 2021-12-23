@@ -1,5 +1,5 @@
 # Hello there! My name is Waylon 👋
-I am a Full Stack Web Developer who is currently enrolled in [Bloom Institute of Technology](https://www.bloomtech.com/)'s Full Stack Web Developer course (completed 4 out of the 6 units).
+I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech.com/)'s Full Stack Web Developer course. I aim to become a certified Full Stack Web Developer by March, 2022.
 
 ## :walking: What I am doing
 - Expanding my knowledge on JavaScript
