@@ -6,11 +6,9 @@ I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech
 - Lately I have been working on a to-do web app called [_"What To Do: Planner"_](https://github.com/DoctorWayWay/what-to-do-planner)
 
 ## :seedling: About Me
-I had absolutly no knowledge on computer programming coming into this year. I graduated high school as the class of 2020 and was pretty confused on what I was going to do afterwards. I did not want to take a loan to go college, and I also did not want to work at a deadend job either.
+Graduated high school as the class of 2020. I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutly no exprience with programming. I wanted to enter the tech industry, so I signed up for one of Bloom Institue of Technology's (formerly named Lambda School) courses to become a certified Full Stack Web Developer.
 
-Fast fowarding to the middle of 2021, I was very lucky to have found out about the Bloom Institute of Technology (formerly known as Lambda School) from my brother. It has literally opened an entirely new world to me, and I am enjoying every bit of it. Now I just want to keep refining my skills, and to become the best web developer I can be.
-
-## :electric_plug: Technologies I Use:
+## :electric_plug: Technologies I Use
 **:writing_hand: Languages:** _JavaScript_, _SQL_, _CSS_, and _HTML_
 
 **:gear: Framworks:** [React.js](https://reactjs.org/), [Express.js](https://expressjs.com/), [Jest](https://jestjs.io/)
