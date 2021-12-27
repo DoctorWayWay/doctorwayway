@@ -10,18 +10,18 @@ I had absolutly no knowledge on computer programming coming into this year. I gr
 
 Fast fowarding to the middle of 2021, I was very lucky to have found out about the Bloom Institute of Technology (formerly known as Lambda School) from my brother. It has literally opened an entirely new world to me, and I am enjoying every bit of it. Now I just want to keep refining my skills, and to become the best web developer I can be.
 
-## :writing_hand: Languages I Use:
-- JavaScript
-- SQL
-- HTML & CSS
-
-## :hammer_and_wrench: Tools I Use
+### Technologies I Use:
+**:writing_hand: Languages:** JavaScript, SQL, CSS, and HTML
+**:hammer_and_wrench: Tools:** 
 - [React.js](https://reactjs.org/)
 - [Express.js](https://expressjs.com/)
 - [BootStrap](https://getbootstrap.com/)
 - [Redux.js](https://redux.js.org/)
 - [Node.js](https://nodejs.org/)
 - [PostgreSQL](https://www.postgresql.org/)
+
+### Find Me On
+LinkedIn - 
 
 <!--
 **DoctorWayWay/doctorwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
