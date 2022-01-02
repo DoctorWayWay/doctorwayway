@@ -8,7 +8,7 @@ I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech
 ## :seedling: About Me
 Graduated high school as the class of 2020. I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutly no exprience with programming. I wanted to enter the tech industry, so I signed up for one of Bloom Institue of Technology's (formerly named Lambda School) courses to become a certified Full Stack Web Developer.
 
-## :electric_plug: Technologies I Use
+## :electric_plug: What I Use
 **:writing_hand: Languages:** _JavaScript_, _SQL_, _CSS_, and _HTML_
 
 **:gear: Frameworks:** [React.js](https://reactjs.org/), [Express.js](https://expressjs.com/), [Jest](https://jestjs.io/)
