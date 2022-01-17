@@ -13,7 +13,7 @@ Graduated high school as the class of 2020. I am open minded, fairly competitive
 
 **:gear: Frameworks:** [React.js](https://reactjs.org/), [Express.js](https://expressjs.com/), [Jest](https://jestjs.io/)
 
-**:books: Libraries:** [BootStrap](https://getbootstrap.com/), [Redux.js](https://redux.js.org/), [SuperTest](https://github.com/visionmedia/supertest#readme), [Knex.js](https://knexjs.org/), [Yup](https://github.com/jquense/yuphttps://github.com/jquense/yup)
+**:books: Libraries:** [BootStrap](https://getbootstrap.com/), [Redux.js](https://redux.js.org/), [SuperTest](https://github.com/visionmedia/supertest#readme), [Knex.js](https://knexjs.org/), [Yup](https://github.com/jquense/yup)
 
 **:hammer_and_wrench: Tools:** [Node.js](https://nodejs.org/), [PostgreSQL](https://www.postgresql.org/), [SQLite](https://www.sqlite.org/index.html), [VSCode](https://code.visualstudio.com/), [Postman](https://www.postman.com/), [Git](https://git-scm.com/), [Zoom](https://zoom.us/), [Slack](https://slack.com/)
 
