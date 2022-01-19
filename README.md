@@ -19,8 +19,8 @@ Graduated high school as the class of 2020. I am open minded, fairly competitive
 
 **:hammer_and_wrench: Tools:** [Node.js](https://nodejs.org/), [PostgreSQL](https://www.postgresql.org/), [SQLite](https://www.sqlite.org/index.html), [VSCode](https://code.visualstudio.com/), [Postman](https://www.postman.com/), [Git](https://git-scm.com/), [Zoom](https://zoom.us/), [Slack](https://slack.com/)
 
-**Connect with me:**
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/waylon-turbes/)
+## :link: Connect with me</br>
+<a href="https://linkedin.com/in/waylon-turbes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo that directs to Waylon Turbes' LinkedIn" aspect-ratio="1/1" height="50px" /></a>
 
 <!--
 **DoctorWayWay/doctorwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
