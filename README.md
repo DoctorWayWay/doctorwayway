@@ -3,9 +3,9 @@ I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech
 
 ## :walking: What I am doing
 - Expanding my knowledge on JavaScript
-- Learning TypeScript and Ant Design
+- Learning [TypeScript](https://www.typescriptlang.org/) and [Material UI](https://mui.com/)
 - Working on a to-do web app called [_"What To Do: Planner"_](https://github.com/waylonturbes/what-to-do-planner)
-- Working on my first full stack typescript application I am calling [_"Jounraler"_](https://github.com/waylonturbes/journaler)
+- Working on my first independent full stack TypeScript application I am calling [_"Jounraler"_](https://github.com/waylonturbes/journaler)
 
 ## :seedling: About me
 Graduated high school as the class of 2020. I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutly no exprience with programming. I wanted to enter the tech industry, so I signed up for one of Bloom Institue of Technology's (fka Lambda School) courses to become a certified Full Stack Web Developer.
