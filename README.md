@@ -8,7 +8,9 @@ I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech
 - Working on my first independent full stack TypeScript web app I am calling [_"Jounraler"_](https://github.com/waylonturbes/journaler)
 
 ## :seedling: About me
-Graduated high school as the class of 2020. I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutly no exprience with programming. I wanted to enter the tech industry, so I signed up for one of Bloom Institue of Technology's courses to become a certified Full Stack Web Developer.
+I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutely no experience with programming. Since I wanted to enter the tech industry, my brother told me about BloomTech(fka Lambda School) and how they have a course that can turn people into certified Full Stack Web Developers through 6 months of vigorous training.
+
+Now 5 months into the course, I can definitely feel the impact it has made on me. I have grown fond of both front and back-end development, and am excited to continue my journey.
 
 ## :electric_plug: What I use
 **:writing_hand: Languages:** _JavaScript_, _SQL_, _CSS_, and _HTML_
