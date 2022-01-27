@@ -1,5 +1,5 @@
 # :wave: Hello there! My name is Waylon
-I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech.com/)'s (fka Lambda School) Full Stack Web Developer course. I aim to become a certified Full Stack Web Developer by March, 2022.
+I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech.com/)'s (formerly known as Lambda School) Full Stack Web Developer course. I aim to become a certified Full Stack Web Developer by March, 2022.
 
 ## :walking: What I am doing
 - Expanding my knowledge on JavaScript
@@ -8,7 +8,7 @@ I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech
 - Working on my first independent full stack TypeScript web app I am calling [_"Jounraler"_](https://github.com/waylonturbes/journaler)
 
 ## :seedling: About me
-I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutely no experience with programming. Since I wanted to enter the tech industry, my brother told me about BloomTech(fka Lambda School) and how they have a course that can turn people into certified Full Stack Web Developers through 6 months of vigorous training.
+I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutely no experience with programming. Since I wanted to enter the tech industry, my brother told me about BloomTech and how they have a course that can turn people into certified Full Stack Web Developers through 6 months of vigorous training.
 
 Now 5 months into the course, I can definitely feel the impact it has made on me. I have grown fond of both front and back-end development, and am excited to continue my journey.
 
