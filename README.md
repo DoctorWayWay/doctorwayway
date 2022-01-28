@@ -1,107 +1,59 @@
-<h1>:wave: Hello there! My name is Waylon</h1>
+# :wave: Hello there! My name is Waylon
 
-<p>I am currently enrolled in <a href="https://www.bloomtech.com/" target="_blank">Bloom Institute of Technology</a>'s (formerly known as Lambda School) Full Stack Web Developer course. I aim to become a certified Full Stack Web Developer by March, 2022.</p>
+I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech.com/)'s (formerly known as Lambda School) Full Stack Web Developer course. I aim to become a certified Full Stack Web Developer by March, 2022.
 
-<h2>:walking: What I am doing</h2>
+## :walking: What I am doing
 
-<ul>
-  <li>Expanding my knowledge on JavaScript</li>
-  <li>Learning <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> and <a href="https://mui.com/" target="_blank">Material UI</a></li>
-  <li>Working on a to-do web app called <a href="https://github.com/waylonturbes/what-to-do-planner" target="_blank">"What To Do: Planner"</a></li>
-  <li>Working on my first independent full stack web app called <a href="https://github.com/waylonturbes/journaler" target="_blank">"Jounraler"</a></li>
-</ul>
+- Expanding my knowledge on JavaScript
+- Learning [TypeScript](https://www.typescriptlang.org/) and [Material UI](https://mui.com/)
+- Working on a to-do web app called [_"What To Do: Planner"_](https://github.com/waylonturbes/journaler)
+- Working on my first independent full stack web app called [_"Jounraler"_](https://github.com/waylonturbes/what-to-do-planner)
 
-<h2>:seedling: About me</h2>
+## :seedling: About me
 
-<p>I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutely no experience with programming. Since I wanted to enter the tech industry, my brother told me about BloomTech and how they have a course that can turn people into certified Full Stack Web Developers through 6 months of vigorous training.</p>
+I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutely no experience with programming. Since I wanted to enter the tech industry, my brother told me about BloomTech and how they have a course that can turn people into certified Full Stack Web Developers through 6 months of vigorous training.
 
-<p>Now 5 months into the course, I can definitely feel the impact it has made on me. I have grown fond of both front and back-end development, and am excited to continue my journey.</p>
+Now 5 months into the course, I can definitely feel the impact it has made on me. I have grown fond of both front and back-end development, and am excited to continue my journey.
 
-<h2>:electric_plug: What I use</h2>
-<div>
-  <h3>:writing_hand: Languages:</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/SQL" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/SQL-324c6c?style=for-the-badge" alt="SQL" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-</div>
+## :electric_plug: What I use
 
-<h3>:gear: Frameworks:</h3>
-<a href="https://reactjs.org/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</a>
-<a href="https://expressjs.com/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</a>
-<a href="https://jestjs.io/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-</a>
+### :writing_hand: Languages:
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-324c6c?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-<h3>:books: Libraries:</h3>
-<a href="https://getbootstrap.com/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</a>
-<a href="https://redux.js.org/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-</a>
-<a href="https://github.com/visionmedia/supertest#readme" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Supertest-d73304?style=for-the-badge" alt="Supertest" />
-</a>
-<a href="https://knexjs.org/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Knex.js-be0f0b?style=for-the-badge" alt="Knex.js" />
-</a>
-<a href="https://github.com/jquense/yup" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Yup-ee6100?style=for-the-badge" alt="Yup" />
-</a>
-<a href="https://lesscss.org/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Less-3c5b82?style=for-the-badge" alt="Less" />
-</a>
-<a href="https://jwt.io/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
-</a>
+### :gear: Frameworks:
+[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 
-<h3>:hammer_and_wrench: Tools:</h3>
-<a href="https://www.heroku.com/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-</a>
-<a href="https://nodejs.org/en/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</a>
-<a href="https://www.postgresql.org/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</a>
-<a href="https://www.sqlite.org/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</a>
-<a href="https://code.visualstudio.com/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" /></a>
-<a href="https://www.postman.com/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-</a>
-<a href="https://git-scm.com/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="https://www.zoom.us/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" />
-</a>
-<a href="https://slack.com/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-</a>
+### :books: Libraries:
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Supertest](https://img.shields.io/badge/Supertest-d73304?style=for-the-badge)](https://github.com/visionmedia/supertest#readme)
+[![Knex.js](https://img.shields.io/badge/Knex.js-be0f0b?style=for-the-badge)](https://knexjs.org/)
+[![Yup](https://img.shields.io/badge/Yup-ee6100?style=for-the-badge)](https://github.com/jquense/yup)
+[![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
 
-<h2>:link: Connect with me</h2>
-<a href="https://linkedin.com/in/waylon-turbes" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 25%;" />
-</a>
+### :hammer_and_wrench: Tools:
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://www.zoom.us/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
+
+
+## :link: Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waylon-turbes)
 
 <!--
+[![]()]()
 **DoctorWayWay/doctorwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
