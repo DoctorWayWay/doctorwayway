@@ -38,6 +38,7 @@ Now 5 months into the course, I can definitely feel the impact it has made on me
 [![Yup](https://img.shields.io/badge/Yup-ee6100?style=for-the-badge)](https://github.com/jquense/yup)
 [![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ### :computer: Operating Systems:
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
