@@ -5,8 +5,7 @@ I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech
 ## :walking: What I am doing
 
 - Expanding my knowledge on JavaScript
-- Learning [TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com/), and [Vue.js](https://v3.vuejs.org/)
-- Working on a to-do web app called [_"What To Do: Planner"_](https://github.com/waylonturbes/journaler)
+- Learning [TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com/), and [Ant Design](https://ant.design/)
 - Working on my first independent full stack web app called [_"Jounraler"_](https://github.com/waylonturbes/what-to-do-planner)
 
 ## :seedling: About me
