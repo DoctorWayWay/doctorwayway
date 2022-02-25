@@ -10,9 +10,11 @@ I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech
 
 ## :seedling: About me
 
-I am open minded, fairly competitive, and I enjoy grinding out my weaknesses. Coming into 2021, I had absolutely no experience with programming. Since I wanted to enter the tech industry, my brother told me about BloomTech and how they have a course that can turn people into certified Full Stack Web Developers through 6 months of vigorous training.
+Hi I’m Waylon, a Full Stack Web Developer fond of both front and back-end development, and I am excited to continue my journey within software optimization and team collaboration. 
 
-Now 5 months into the course, I can definitely feel the impact it has made on me. I have grown fond of both front and back-end development, and am excited to continue my journey.
+Currently, I am familiar with HTML5, JavaScript, CSS3, React.js, Redux, and I regularly use Git, GitHub, Slack, and Zoom in an Agile work environment. I also have experience configuring databases using either PostgreSQL or SQLite3, and creating RESTful APIs for them using Node.js, Knex.js, and Express.js.
+
+I have a high level of patience, a competitive mindset, and an open-mind towards constructive feedback identifying and leveraging opportunities for learning as much as possible.
 
 ## :electric_plug: What I use
 
