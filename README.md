@@ -1,20 +1,20 @@
 # :wave: Hello there! My name is Waylon
 
-I am currently enrolled in [Bloom Institute of Technology](https://www.bloomtech.com/)'s (formerly known as Lambda School) Full Stack Web Developer course. I aim to become a certified Full Stack Web Developer by March, 2022.
-
-## :walking: What I am doing
-
-- Expanding my knowledge on JavaScript
-- Learning [TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com/), and [Ant Design](https://ant.design/)
-- Working on my first independent full stack web app called [_"Jounraler"_](https://github.com/waylonturbes/what-to-do-planner)
-
-## :seedling: About me
-
-Hi I’m Waylon, a Full Stack Web Developer fond of both front and back-end development, and I am excited to continue my journey within software optimization and team collaboration. 
+I am a Full Stack Web Developer fond of both front and back-end development, and I am excited to continue my journey within software optimization and team collaboration. 
 
 Currently, I am familiar with HTML5, JavaScript, CSS3, React.js, Redux, and I regularly use Git, GitHub, Slack, and Zoom in an Agile work environment. I also have experience configuring databases using either PostgreSQL or SQLite3, and creating RESTful APIs for them using Node.js, Knex.js, and Express.js.
 
 I have a high level of patience, a competitive mindset, and an open-mind towards constructive feedback identifying and leveraging opportunities for learning as much as possible.
+
+Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
+
+## :walking: What I am doing
+
+- Expanding my knowledge on JavaScript
+- Learning [TypeScript](https://www.typescriptlang.org/) and [MUI](https://mui.com/)
+- Working on my first independent full stack web app called _"Jounraler"_ 
+  - [Front-end repository](https://github.com/waylonturbes/journaler-frontend)
+  - [Back-end repository](https://github.com/waylonturbes/journaler-backend)
 
 ## :electric_plug: What I use
 
@@ -40,6 +40,7 @@ I have a high level of patience, a competitive mindset, and an open-mind towards
 [![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Ant Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)](https://ant.design/)
 
 ### :computer: Operating Systems:
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
