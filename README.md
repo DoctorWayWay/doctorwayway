@@ -8,6 +8,9 @@ I have a high level of patience, a competitive mindset, and an open-mind towards
 
 Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
+## :link: Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waylon-turbes)
+
 ## :walking: What I am doing
 
 - Expanding my knowledge on JavaScript
@@ -66,10 +69,6 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
-
-
-## :link: Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waylon-turbes)
 
 <!--
 [![]()]()
