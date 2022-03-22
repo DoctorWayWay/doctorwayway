@@ -15,7 +15,7 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 ## :walking: What I am doing
 
 - Expanding my knowledge on JavaScript
-- Learning [TypeScript](https://www.typescriptlang.org/) and [MUI](https://mui.com/)
+- Learning [Vue.js](https://vuejs.org/)
 - Working on my first independent full stack web app called _"Jounraler"_ 
   - [Front-end repository](https://github.com/waylonturbes/journaler-frontend)
   - [Back-end repository](https://github.com/waylonturbes/journaler-backend)
