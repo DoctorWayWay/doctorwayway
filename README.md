@@ -16,9 +16,8 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
 - Expanding my knowledge on JavaScript
 - Learning [Vue.js](https://vuejs.org/)
-- Working on my first independent full stack web app called _"Jounraler"_ 
-  - [Front-end repository](https://github.com/waylonturbes/journaler-frontend)
-  - [Back-end repository](https://github.com/waylonturbes/journaler-backend)
+- Occasionally working on personal projects such as...
+  - [Sparkle Up](https://github.com/waylonturbes/sparkle-up)
 
 ## :electric_plug: What I use
 
