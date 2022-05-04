@@ -15,9 +15,7 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 ## :walking: What I am doing
 
 - Expanding my knowledge on JavaScript
-- Learning [Vue.js](https://vuejs.org/)
-- Occasionally working on personal projects such as...
-  - [Sparkle Up](https://github.com/waylonturbes/sparkle-up)
+- Building web applications with [Next.js](https://nextjs.org/) & [Chakra UI](https://chakra-ui.com/)
 
 ## :electric_plug: What I use
 
