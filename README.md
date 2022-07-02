@@ -15,7 +15,7 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 ## :walking: What I am doing
 
 - Expanding my knowledge on JavaScript
-- Building web applications with [Next.js](https://nextjs.org/) & [Chakra UI](https://chakra-ui.com/)
+- Building web applications with [Next.js](https://nextjs.org/) & [TailwindCSS](https://tailwindcss.com/)
 
 ## :electric_plug: What I use
 
