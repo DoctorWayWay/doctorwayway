@@ -14,8 +14,8 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
 ## :walking: What I am doing
 
-- Expanding my knowledge on JavaScript
-- Building web applications with [Next.js](https://nextjs.org/) & [TailwindCSS](https://tailwindcss.com/)
+- Learning [Go](https://go.dev/) and [Elm](https://elm-lang.org/)
+- Making things look cool with [UnoCSS](https://github.com/unocss/unocss) and [Mantine](https://mantine.dev/)
 
 ## :electric_plug: What I use
 
