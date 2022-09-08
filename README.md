@@ -1,10 +1,6 @@
 # :wave: Hello there! My name is Waylon
 
-I am a Full Stack Web Developer fond of both front and back-end development, and I am excited to continue my journey within software optimization and team collaboration. 
-
-Currently, I am familiar with HTML5, JavaScript, CSS3, React.js, Redux, and I regularly use Git, GitHub, Slack, and Zoom in an Agile work environment. I also have experience configuring databases using either PostgreSQL or SQLite3, and creating RESTful APIs for them using Node.js, Knex.js, and Express.js.
-
-I have a high level of patience, a competitive mindset, and an open-mind towards constructive feedback identifying and leveraging opportunities for learning as much as possible.
+I am a Full Stack Web Developer 
 
 Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
@@ -24,7 +20,13 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-### :gear: Frameworks:
+### :computer: Operating Systems:
+
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+
+### :hammer_and_wrench: Tools:
 
 [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://v2.vuejs.org/)
@@ -33,9 +35,6 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 [![Vitest](https://img.shields.io/badge/Vitest-86B91A?style=for-the-badge&logo=vite&logoColor=EDD532)](https://vitest.dev/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-
-### :books: Libraries:
-
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
@@ -51,15 +50,6 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://vuetifyjs.com/en/)
 [![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://chakra-ui.com/)
 [![NativeBase](https://img.shields.io/badge/nativebase-20232A?style=for-the-badge)](https://nativebase.io/)
-
-### :computer: Operating Systems:
-
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
-[![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
-
-### :hammer_and_wrench: Tools:
-
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
