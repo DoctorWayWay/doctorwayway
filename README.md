@@ -8,14 +8,11 @@ I have a high level of patience, a competitive mindset, and an open-mind towards
 
 Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
-## :link: Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waylon-turbes)
 
 ## :walking: What I am doing
 
-- Learning [Go](https://go.dev/) and [Elm](https://elm-lang.org/)
-- Making things look cool with [UnoCSS](https://github.com/unocss/unocss) and [Mantine](https://mantine.dev/)
+- Building my portfolio website using [Astro](https://astro.build/), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/), and many more awesome tools.
 
 ## :electric_plug: What I use
 
