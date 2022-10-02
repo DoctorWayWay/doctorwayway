@@ -9,6 +9,7 @@ I am a graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 ## :walking: What I am doing
 
 - Building my portfolio website using [Astro](https://astro.build/), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/), and many more awesome tools.
+- Building web games using [Vite](https://vitejs.dev/), [Preact](https://preactjs.com/), [Twind](https://twind.dev/), [Framer Motion](https://www.framer.com/motion/), and [Jotai](https://jotai.org/)
 
 ## :electric_plug: What I use
 
