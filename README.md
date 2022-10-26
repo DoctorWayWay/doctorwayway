@@ -1,6 +1,6 @@
 # :wave: Hello there! My name is Waylon
 
-I am a Full Stack Web Developer, improving my knowledge on web development every day. Below you will find a list of tools I use or have used before. At the moment, I primarly work with [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [Mantine](https://mantine.dev/), and [NativeBase](https://nativebase.io/), building responsive and cross-platform user interfaces.
+I am a Full Stack Web Developer, improving my knowledge on web development every day. Below you will find a list of tools I use or have used before. At the moment, I primarly work with [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [Mantine](https://mantine.dev/), and [NativeBase](https://nativebase.io/), building responsive and cross-platform user interfaces. I really enjoy building UI.
 
 I am a graduate of [Bloom Institute of Technology](https://www.bloomtech.com/). 
 
