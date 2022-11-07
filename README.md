@@ -8,7 +8,7 @@ I am a graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
 ## :walking: What I am doing
 
-- Building a small web games PWA using [Vite](https://vitejs.dev/), [Preact](https://preactjs.com/), [UnoCSS](https://github.com/unocss/unocss), [Framer Motion](https://www.framer.com/motion/), [Jotai](https://jotai.org/), and more.
+- Building a progressive calendar/planner web application deployed on [Vercel](https://vercel.com/), using [yarn](https://yarnpkg.com/) [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/) [React](https://reactjs.org/), [Redux Toolkit](https://redux-toolkit.js.org/), [React Router](https://reactrouter.com/), [localForage](https://localforage.github.io/localForage/), [UnoCSS](https://github.com/unocss/unocss), [Framer Motion](https://www.framer.com/motion/), [Radix UI](https://www.radix-ui.com/), and more to come.
 
 ## :electric_plug: What I use
 
