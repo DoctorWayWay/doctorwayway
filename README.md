@@ -8,17 +8,17 @@ I am a graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
 ## :walking: What I am doing
 
-- Building a progressive calendar/planner web application deployed on [Vercel](https://vercel.com/), using [yarn](https://yarnpkg.com/), [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Redux Toolkit](https://redux-toolkit.js.org/), [React Router](https://reactrouter.com/), [localForage](https://localforage.github.io/localForage/), [UnoCSS](https://github.com/unocss/unocss), [Framer Motion](https://www.framer.com/motion/), [Radix UI](https://www.radix-ui.com/), and more to come.
+- Building a progressive calendar/planner web application deployed on [Vercel](https://vercel.com/), using [yarn](https://yarnpkg.com/), [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Prisma](https://www.prisma.io/), [tRPC](https://trpc.io/), and [Mantine](https://mantine.dev/).
 
 ## :electric_plug: What I use
 
 ### :writing_hand: Languages:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![SQL](https://img.shields.io/badge/SQL-324c6c?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### :computer: Operating Systems:
 
