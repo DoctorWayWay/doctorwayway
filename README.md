@@ -9,6 +9,7 @@ I am a graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 ## :walking: What I am doing
 
 - Building a progressive calendar/planner web application deployed on [Vercel](https://vercel.com/), using [Next.js](https://nextjs.org/), [Prisma](https://www.prisma.io/), [tRPC](https://trpc.io/), and [Chakra UI](https://chakra-ui.com/).
+- Build an mobile app (Android only) using React Native, Tamagui, Expo, Expo Router, and more.
 
 ## :electric_plug: What I use
 
