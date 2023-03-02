@@ -9,7 +9,6 @@ I am a graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 ## :walking: What I am doing
 
 - Building a progressive calendar/planner web application deployed on [Vercel](https://vercel.com/), using [Next.js](https://nextjs.org/), [Prisma](https://www.prisma.io/), [tRPC](https://trpc.io/), and [Chakra UI](https://chakra-ui.com/).
-- Build an mobile app (Android only) using React Native, Tamagui, Expo, Expo Router, and more.
 
 ## :electric_plug: What I use
 
@@ -73,8 +72,6 @@ I am a graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 [![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://prettier.io/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)
 [![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
-[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/)
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 
 
