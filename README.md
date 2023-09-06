@@ -6,9 +6,9 @@ I am a graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waylon-turbes)
 
-## :walking: What I am doing
+## :walking: What I am learning
 
-- Building a progressive calendar/planner web application deployed on [Vercel](https://vercel.com/), using [Next.js](https://nextjs.org/), [Prisma](https://www.prisma.io/), [tRPC](https://trpc.io/), and [Chakra UI](https://chakra-ui.com/).
+- .NET + C# with ASP.NET
 
 ## :electric_plug: What I use
 
@@ -19,6 +19,7 @@ I am a graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 [![SQL](https://img.shields.io/badge/SQL-324c6c?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ### :computer: Operating Systems:
 
